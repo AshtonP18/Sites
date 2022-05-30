@@ -1,0 +1,36 @@
+html {
+  background-color: #080808;
+}
+
+table {
+  margin: auto;
+  border: 2px solid #7f8086;
+  border-collapse: collapse;
+  color: #7f8086;
+}
+th, td {
+  border: 1px solid #7f8086
+}
+h1, h2, #guide {
+  text-align: center;
+  color: #7f8086;
+}
+
+hr {
+  border: 2px solid #AE8875;
+}
+
+
+em {
+  
+  color: #AE8875;
+}
+
+a {
+  color: #AE8875;
+}
+
+.tag {
+  font-weight: bold;
+
+}
